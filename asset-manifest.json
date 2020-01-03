@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/real-time-gold-price/static/css/main.d1b05096.chunk.css",
+    "main.js": "/real-time-gold-price/static/js/main.32c9b81d.chunk.js",
+    "main.js.map": "/real-time-gold-price/static/js/main.32c9b81d.chunk.js.map",
+    "runtime-main.js": "/real-time-gold-price/static/js/runtime-main.f67661a3.js",
+    "runtime-main.js.map": "/real-time-gold-price/static/js/runtime-main.f67661a3.js.map",
+    "static/js/2.4198ab93.chunk.js": "/real-time-gold-price/static/js/2.4198ab93.chunk.js",
+    "static/js/2.4198ab93.chunk.js.map": "/real-time-gold-price/static/js/2.4198ab93.chunk.js.map",
+    "index.html": "/real-time-gold-price/index.html",
+    "precache-manifest.f7dff19927ffdf0e4ab5d885b0a0635b.js": "/real-time-gold-price/precache-manifest.f7dff19927ffdf0e4ab5d885b0a0635b.js",
+    "service-worker.js": "/real-time-gold-price/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/real-time-gold-price/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4198ab93.chunk.js.LICENSE": "/real-time-gold-price/static/js/2.4198ab93.chunk.js.LICENSE",
+    "static/media/logo.svg": "/real-time-gold-price/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67661a3.js",
+    "static/js/2.4198ab93.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.32c9b81d.chunk.js"
+  ]
+}
